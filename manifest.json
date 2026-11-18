@@ -1,0 +1,9 @@
+{
+  "id": "plan-html-page",
+  "name": "Plan HTML page",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Show a vault HTML file, scripts included, inside a note with an html-page code block.",
+  "author": "Tran Thang",
+  "isDesktopOnly": false
+}
